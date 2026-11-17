@@ -2,5 +2,5 @@ url: https://github.com/Lornatang/dsh-security-audit
 name: Lornatang/dsh-security-audit
 category: security
 description:
-  en: 'Makes the Cloudflare security-audit skill and its original guides and validators available in DeepSeek Harness.'
-  zh: '在 DeepSeek Harness 中提供 Cloudflare security-audit 技能及其原版指南和校验器。'
+  en: 'Multi-phase repository security audits with structured findings and coverage validation in DeepSeek Harness.'
+  zh: '在 DeepSeek Harness 中执行多阶段代码仓库安全审计，并校验结构化发现和覆盖记录。'
